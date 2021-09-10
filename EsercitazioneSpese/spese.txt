@@ -1,0 +1,8 @@
+Data	  	Categoria Descrizione	Importo
+2021-09-10	Vitto	Ristorante Su Talleri	1050
+2021-06-30	Viaggio	Vancouver	3500
+2021-08-13	Alloggio	B&B Il Castello	300
+2021-03-21	Altro	Servizio in Camera	3000
+2021-05-01	Altro	Corso di Sci	2510
+2021-09-05	Alloggio	Hotel La Marina	450
+2021-02-02	Viaggio	Dubai	1900

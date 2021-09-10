@@ -1,0 +1,7 @@
+10-set-2021;Vitto;Ristorante Su Talleri;APPROVATA;CEO;Rimborso: 735 [su 1050]
+13-ago-2021;Alloggio;B&B Il Castello;APPROVATA;Manager;Rimborso: 300 [su 300]
+05-set-2021;Alloggio;Hotel La Marina;APPROVATA;Operational Manager;Rimborso: 450 [su 450]
+02-feb-2021;Viaggio;Dubai;APPROVATA;CEO;Rimborso: 1950 [su 1900]
+30-giu-2021;Viaggio;Vancouver;RESPINTA;-;-
+21-mar-2021;Altro;Servizio in Camera;RESPINTA;-;-
+01-mag-2021;Altro;Corso di Sci;RESPINTA;-;-
